@@ -1,0 +1,9 @@
+ch\hevs\bankservice\Bank.class
+ch\hevs\businessobject\Client.class
+ch\hevs\servlet\BankServlet.class
+ch\hevs\dao\AccountDAO.class
+ch\hevs\exception\BankException.class
+ch\hevs\dao\util\ConnexionManager.class
+ch\hevs\servlet\ShowForm.class
+ch\hevs\dao\ClientDAO.class
+ch\hevs\businessobject\Account.class
